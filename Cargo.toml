@@ -1,0 +1,12 @@
+[package]
+name = "intpack"
+version = "0.1.0"
+edition = "2018"
+license = "MIT"
+description = "intpack is a collection of functions for packing/unpacking unsigned integers into other unsigned integers of different sizes. For example, packing 4 u8's into a u32."
+repository = "https://github.com/Will-Banksy/intpack"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
